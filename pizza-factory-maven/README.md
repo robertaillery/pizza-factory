@@ -2,7 +2,7 @@
 
 ## How to Run
 
-1. Clone the repository, or download .zip
+1. Clone the repository
 2. Navigate to the project directory
 3. Run: `mvn clean compile`
 4. Run tests: `mvn test`
